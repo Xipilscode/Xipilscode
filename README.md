@@ -1,6 +1,6 @@
-![](images/20191_fintech.jpeg)
+![](images/fintech_cropped.png)
 
-Skillful in:
+### Skillful in:
 * Statistical Data Analysis and Financial Modeling
 * Algorithmic Trading and Quantitative Analysis
 * Machine Learning and Artificial Intelligence
@@ -13,7 +13,8 @@ My journey in FinTech is marked by a dedication to merging technology with finan
 I am open to collaborative projects, connections, and discussions that could lead to meaningful impact in shaping the future of the FinTech industry.
 
 ### Languages:
-- Python ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- SQL ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-- Solidity ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-- Java ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
+- ![Solidity](https://img.shields.io/badge/Solidity-363636?style=plastic&logo=solidity&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
+
