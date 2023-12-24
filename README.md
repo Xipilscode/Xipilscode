@@ -6,14 +6,11 @@
 * **Machine Learning and Artificial Intelligence**
 * **Time-Series Analysis and Data Visualization**
 
-As a Data and Financial Analyst, I bring a unique blend of academic rigor from UC Berkeley's Financial Technology Boot Camp and hands-on project experience in data and financial analysis. Skilled in Python, Pandas, SQL, and AWS, my expertise extends to blockchain technologies, especially Ethereum smart contracts and Solidity. Through hands-on projects, I have developed competencies in quantitative analysis, algorithmic trading, machine learning, AI, and financial modeling. These skills empower me to effectively navigate and innovate within complex financial systems.
+As a Data and Financial Analyst, I bring a unique blend of academic rigor from UC Berkeley's Financial Technology Boot Camp and hands-on projects experience in data and financial analysis. Skilled in Python, Pandas, SQL, and AWS, my expertise also extends to blockchain technologies, particularly Ethereum smart contracts and Solidity. Through my involvement in various hands-on projects, I have developed competencies in quantitative analysis, algorithmic trading, machine learning, AI, and financial modeling. These skills enable me to navigate and innovate effectively within complex financial systems.
 
-My journey in FinTech is marked by a dedication to merging technology with finance, aiming to drive efficiency and strategic insights in fast-paced financial settings. I am actively seeking opportunities in the FinTech industry to apply my blend of academic learning and professional experience in shaping the future of financial technology.
+My journey in FinTech is underscored by a commitment to integrating technology with finance, focusing on driving efficiency and strategic insights in dynamic financial environments. I am actively seeking opportunities in the FinTech industry to leverage my academic background and professional experience to foster advancement in this field.
 
-I am open to collaborative projects, connections, and discussions that could lead to meaningful impact in shaping the future of the FinTech industry.
-
-
-To display the badges in a line without the names of the languages, you can simply remove the text before each badge and ensure they are placed next to each other without line breaks. Here's how it will look:
+I am open to collaborative projects, connections, and discussions that could have a meaningful impact in shaping the future of FinTech.
 
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
