@@ -1,4 +1,4 @@
-![](images/fintech_cropped.png)
+![](images/fintech.jpeg)
 
 ### Skillful in:
 * **Statistical Data Analysis and Financial Modeling**
